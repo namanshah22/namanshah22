@@ -16,6 +16,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=namanshah22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=namanshah22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🌟 Some of my notable projects:
+- [Food Managing App](https://react-food-app-tau.vercel.app/)
+
 
 
 
