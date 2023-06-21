@@ -16,7 +16,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=namanshah22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=namanshah22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Naman Shah's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=namanshah22&theme=react)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=namanshah22&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/namanshah22/github-readme-activity-graph)
 
 ## 🌟 Some of my notable projects:
 - [Food Managing App](https://react-food-app-tau.vercel.app/)
