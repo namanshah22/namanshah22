@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Naman Shah
-🎓 **Fourth Year Computer Engineering student at D. J. Sanghvi College of Engineering**.
-- 🤝 I’m looking for help with internships.
-- 🔭 I’m currently learning Machine Learning, Full Stack Web Development.
+🎓 **Final Year Computer Engineering student at D. J. Sanghvi College of Engineering**.
 - 👨‍💻 All of my projects are available at [https://github.com/namanshah22](https://github.com/namanshah22)
 - 📫 How to reach me: **namankshah22@gmail.com**
 
